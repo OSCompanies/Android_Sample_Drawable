@@ -6,6 +6,7 @@ res 폴더의 drawable 폴더에는 이미지 뿐만 아니라
 이를 drawable 이라고 한다.
 
 StateListDrawable : 특정한 상황에서 이미지를 바꾸거나 그래픽을 지정하기 위한 드로어블이다.
+
 ShapeDrawable : 간단하게 도형을 직접 그릴 수 있는 드로어블이다. 직접 커스텀하거나 특정 모양을 지정할 수 있다.
 
 1. res/drawable 폴더에 우클릭 후 Drawable resource file 클릭해서 xml 파일을 하나 생성한다.
